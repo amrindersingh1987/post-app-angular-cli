@@ -15,4 +15,4 @@ User login and post with Angular CLI
 6) Browse to "http://localhost:4200" to test your application.
 
 
-Note: For Requesting forwarding for backend api done in "proxy.config.json" and its available in root folder
+Note: For Rest Api Request forwarding for backend api done in "proxy.config.json" and its available in root folder
