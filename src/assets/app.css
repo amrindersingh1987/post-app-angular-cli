@@ -1,0 +1,73 @@
+﻿a {
+    cursor: pointer;
+}
+
+.help-block {
+    font-size: 12px;
+}
+.navbar-fixed-top {
+  z-index: 999;
+}
+
+.responsive-img, .img-fluid {
+  width: 100%; /* for image width 100% */
+}
+.row{
+  padding: 2rem;
+}
+
+
+.post-text{
+  word-wrap: break-word;
+  font-size: 2rem;
+  font-weight: 500;
+  margin-bottom: 0.5rem;
+}
+
+.website-logo {
+  position: relative;
+  display: inline-block;
+  z-index: 1;
+  float: left;
+  height: 100%;
+}
+.website-logo a {
+  transform: none;
+}
+
+.grey-skin{
+
+}
+
+.csResize-verticle {
+  resize: vertical !important;
+}
+
+.csCard__list article {
+  margin-bottom: 30px;
+}
+.csCard__list article.csDlBasket__item {
+  margin-bottom: 15px;
+  padding-bottom: 15px;
+}
+.csCard__list .card-title {
+  font-size: 20px;
+  line-height: 26px;
+  padding: 4px 0 0 0;
+}
+.csCard__list .card-title .fa {
+  font-size: 18px;
+  position: relative;
+}
+.csCard__list .card-title small {
+  font-size: 70%;
+}
+.csCard__list .card-title small .fa {
+  top: 2px;
+}
+.col-md-6 .csCard__list article:last-child,
+.col-lg-4 .csCard__list article:last-child {
+  border-bottom: 0;
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
