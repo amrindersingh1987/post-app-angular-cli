@@ -12,7 +12,7 @@ User login and post with Angular CLI
  
 5) Start the application by running "ng serve --proxy-config proxy.config.json" from the command line in the project root folder.
  
-6) Browse to "http://localhost:4200" to test your application.
+6) Browse to "http://localhost:4200" to test your application. or if you want to run on different port please follow : ng serve --port 9000 --proxy-config proxy.config.json
 
 
-Note: For Rest Api Request forwarding for backend api done in "proxy.config.json" and its available in root folder
+Note: For Api, Request forwarding for backend api done in "proxy.config.json" and its available in root folder
